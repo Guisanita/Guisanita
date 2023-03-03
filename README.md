@@ -1,6 +1,6 @@
 # Olá !   🙋‍♂️
 
-🔹 Sou o Guilherme Sanitá, em transição de carreira, estudando Desenvolvimento de Software na Cubos Academy. Sempre trabalhei com a tecnologia como ferramenta para a produção audiovisual e trago das minhas experiências o trabalho em grupo, organização, gestão de projetos, relação com clientes externo e interno, resolução de conflitos e melhoria continua. 
+🔹 Sou o Guilherme Sanitá, em transição de carreira, estudando Desenvolvimento de Software na Cubos Academy. Sempre trabalhei com a tecnologia como ferramenta para a produção audiovisual e trago das minhas experiências o trabalho em grupo, organização, gestão de projetos, relação com clientes externo e interno, resolução de conflitos e melhoria contínua. 
 
 Espero com isso poder trabalhar na área Tech como desenvolvedor/programador , usando da lógica de programação junto com a criatividade desenvolvida ao decorrer da minha jornada profissional.
 
